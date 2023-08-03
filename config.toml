@@ -39,10 +39,10 @@ hasCJKLanguage = true
     weight = 10
 
 [[menu.main]]
-    identifier = "twitter"
-    name = "Twitter"
-    pre = "<i class='fab fa-twitter fa-lg'></i>"
-    url = "https://twitter.com/oliviergareau"
+    identifier = "mastodon"
+    name = "Mastodon"
+    pre = "<i class='fab fa-mastodon fa-lg'></i>"
+    url = "https://noc.social/@oliviergareau"
     weight = 20
 
 [[menu.main]]

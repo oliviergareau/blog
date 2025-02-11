@@ -20,7 +20,7 @@ hasCJKLanguage = true
     description = """
         Software dev, Linux enthusiast and Arduino nerd.
     """
-    publicationYear = "2024"
+    publicationYear = "2025"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
     # singlePageDateFormat = "January 2, 2006"
     # custom_css = ["/css/custom.css"]
